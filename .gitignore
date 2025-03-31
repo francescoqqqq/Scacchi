@@ -1,0 +1,18 @@
+# Ambiente virtuale Python
+venv/
+*/venv/
+
+# Modelli e uploads
+*/uploads/
+*.safetensors
+
+# Cache e build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+
+# Node modules
+node_modules/
+*/node_modules/
